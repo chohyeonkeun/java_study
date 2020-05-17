@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 프로그래밍 대회에서 배우는 알고리즘 문제해결전략(저자: 구종만)
+ * 7.2 쿼드 트리 뒤집기 (문제ID: QUADTREE, 난이도: 하)
+ */
+
 public class QuadTree {
 
     private static int pointer;

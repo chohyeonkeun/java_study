@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 import static java.lang.Math.min;
 
+/**
+ * 프로그래밍 대회에서 배우는 알고리즘 문제해결전략(저자: 구종만)
+ * 6.8 시계맞추기 (문제ID: CLOCKSYNC, 난이도: 중)
+ */
+
 public class AdjustClocks {
     private static int INF = 99999;
     private static int CLOCKS = 16;

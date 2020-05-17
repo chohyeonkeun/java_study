@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 프로그래밍 대회에서 배우는 알고리즘 문제해결전략(저자: 구종만)
+ * 6.3 소풍 (문제ID: PICNIC, 난이도: 하)
+ */
+
 public class Picnic {
     // 친구 관계를 담을 변수
     private static boolean[][] friendsInfo;
